@@ -1,0 +1,2 @@
+# CS3280-InvoiceSystem-Final
+This final project was for my CS 3280 Windows Application class. This was a group project between JulianFujita, Jennifer Morales, and myself. Together we worked on implementing a simple Invoicing system using a Microsoft Access Database. For my part in the project, I implemented the Database as well as the UI and logic for the creation and manipulation of the item inventory.
